@@ -14,7 +14,9 @@ A powerful and responsive admin dashboard built with React and Material UI. This
 ## 📸 Screenshots
 
 ### Dashboard Overview
-![Screenshot 2025-02-24 at 11-05-04 React App](https://github.com/user-attachments/assets/e400b57d-212f-448c-9f77-9c2960a5690b)
+https://github.com/user-attachments/assets/8b4461c5-e99a-460c-86cd-7a02f4f0bd3e
+
+
 
 
 
